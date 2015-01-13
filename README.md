@@ -1,3 +1,2 @@
 # Journal
-Exercice LP ATC CRSML
-Cc cv ?
+Exercice LP ATC CRSML.
